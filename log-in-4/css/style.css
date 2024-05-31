@@ -1,0 +1,85 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700);
+
+body{
+    background: #445566;
+    font-family: 'Open Sans' , sans-serif;
+}
+
+.log-in{
+    width: 450px;
+    margin: 20px auto;
+    font-size: 16px;
+}
+
+.login-header , .log-in p{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+
+.login-tringle{
+    width: 0;
+    margin-right: auto;
+    margin-left: auto;
+    border: 12px solid transparent;
+    border-bottom-color: #2288dd;
+}
+
+.login-header{
+    background: #2288dd;
+    padding: 20px;
+    font-size: 1.5em;
+    font-weight: normal;
+    text-align: center;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+
+.login-container{
+    background: #ebebeb;
+    padding: 12px;
+}
+
+.log-in p{
+    padding: 12px;
+}
+
+.log-in input{
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+    border: 1px solid;
+    outline: 0;
+    padding: 16px;
+    font-family: inherit;
+    font-size: .0.95em;
+}
+
+
+.log-in input[type='email'] , 
+.log-in input[type='password']{
+    background: #fff;
+    border-color: #bbb;
+    color: #555;
+}
+
+.log-in input[type='email']:focus , 
+.log-in input[type='password']:focus{
+    border-color: #888;
+}
+
+.log-in input[type='submit']{
+    background: #28d;
+    border-color: transparent;
+    color: #fff;
+    cursor: pointer;
+}
+
+.log-in input[type='submit']:hover{
+    background: #1177cc;
+}
+
+.log-in input[type='submit']:focus{
+    border-color: #0055aa;
+}
