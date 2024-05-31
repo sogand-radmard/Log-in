@@ -1,0 +1,65 @@
+body{
+    /* height: 100%;
+    width: 100%; */
+    background: linear-gradient(90deg, rgba(164,195,178,1) 25%, rgba(246,255,248,1) 98%);
+
+}
+
+.form-1{
+    position: relative;
+    height: 300px;
+    width: 300px;
+    /* left: 250px; */
+    top: 50px;
+    border: 2px solid #6b9080;
+    border-radius: 10px;
+    background-color: #6b9080;
+    margin-left: auto;
+    margin-right: auto;
+    
+    /* box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px; */
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+.title{
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    color: #f6fff8;
+}
+
+.login-user{
+    position: relative;
+    left: 55px;
+}
+
+.login-pass{
+    position: relative;
+    left: 55px;
+}
+
+input{
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px;
+    border: 2px solid transparent;
+}
+
+button{
+    outline: none;
+    position: relative;
+    left: 100px;
+    padding: 10px 30px;
+    border-radius: 10px;
+    border: 2px solid transparent;
+    background-color: #cce3de;
+}
+
+button:hover{
+    background-color: #eaf4f4;
+}
+
+.forgot{
+    text-align: center;
+    margin: 20px;
+}
