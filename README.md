@@ -16,5 +16,5 @@ _Log-in 4 output_
 
 ![output image](log-in-4/output/log-in-4.png)
 
-_log-in 5 output-
+_log-in 5 output_
 ![output image](log-in-5/output/log-in-5.png)
