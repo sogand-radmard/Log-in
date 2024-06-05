@@ -10,7 +10,7 @@ _Log-in 2 output_
 
 _Log-in 3 output_
 
-![outut image](log-in-3/output/log-in-3.png)
+![output image](log-in-3/output/log-in-3.png)
 
 _Log-in 4 output_
 
